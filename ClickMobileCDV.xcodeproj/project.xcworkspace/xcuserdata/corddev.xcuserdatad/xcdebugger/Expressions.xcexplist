@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CDVStatusBar pluginInitialize]:CDVStatusBar.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self settingForKey:setting]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CDVStatusBar initializeStatusBarBackgroundView]:CDVStatusBar.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "statusBarFrame.size.height + statusBarFrame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
