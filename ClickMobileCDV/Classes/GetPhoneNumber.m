@@ -65,7 +65,7 @@ static NSString * const kConfigurationServerURLKey = @"DeviceUdid";
                      NSLog(@"{MainViewController} Phone Number from webservice: %@", phoneNum);
                      [defaults setValue:phoneNum forKey:@"settingsPhoneNumber"];
                  }else{
-                     phoneNum = @"1234098765";
+                     phoneNum = @"";
                      NSLog(@"{MainViewController} Phone Number from webservice: %@", phoneNum);
                      [defaults setValue:phoneNum forKey:@"settingsPhoneNumber"];
                      if (count == 1) {
