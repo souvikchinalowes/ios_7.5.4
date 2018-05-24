@@ -38,7 +38,7 @@
 			<key>Key</key>
 			<string>version_preference</string>
 			<key>DefaultValue</key>
-			<string>7.5.2</string>
+			<string>7.5.4</string>
 		</dict>
 	</array>
 	<key>StringsTable</key>
